@@ -1,6 +1,9 @@
 _repo: Ming-jing-gong-an_52280
 _version: 0.1.0
 alternative_title: Ming jing gong an
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Unknown
@@ -19,6 +22,8 @@ creator:
     gutenberg_agent_id: '46757'
     url: http://www.gutenberg.org/2009/agents/46757
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52280#Ming-jing-gong-an
 gutenberg_issued: '2016-06-08'
 gutenberg_type: Text
 identifiers:
